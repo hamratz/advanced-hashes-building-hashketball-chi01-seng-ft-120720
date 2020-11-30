@@ -3,8 +3,8 @@ game_hash{
 
 :home {
   :team_name
-  :colors 
-  :players 
+  :colors []
+  :players [ 
     :player_name
     :number
     :shoe
@@ -14,13 +14,14 @@ game_hash{
     :steals
     :blocks
     :slam_dunks
+    ]
 }
 
 
 :away{
   :team_name
-  :colors 
-  :players 
+  :colors []
+  :players [
     :player_name
     :number
     :shoe
@@ -30,6 +31,7 @@ game_hash{
     :steals
     :blocks
     :slam_dunks
+    ]
     
 }
     
