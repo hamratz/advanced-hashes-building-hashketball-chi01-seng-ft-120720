@@ -5,6 +5,7 @@ game_hash{
   :team_name
   :colors []
   :players [ 
+    {
     :player_name
     :number
     :shoe
@@ -14,6 +15,7 @@ game_hash{
     :steals
     :blocks
     :slam_dunks
+    }
     ]
 }
 
@@ -22,6 +24,7 @@ game_hash{
   :team_name
   :colors []
   :players [
+    {
     :player_name
     :number
     :shoe
@@ -31,6 +34,7 @@ game_hash{
     :steals
     :blocks
     :slam_dunks
+    }
     ]
     
 }
