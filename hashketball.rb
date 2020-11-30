@@ -6,7 +6,7 @@ home: {
   colors: ["Black", "White"]
   players: [ 
     {
-    player_name:
+    player_name:"Alan Anderson"
     number:
     shoe:
     points:
@@ -17,7 +17,7 @@ home: {
     slam_dunks:
     },
     {
-    player_name:
+    player_name:"Reggie Evans"
     number:
     shoe:
     points:
@@ -28,7 +28,7 @@ home: {
     slam_dunks:
     },
     {
-    player_name:
+    player_name:"Brook Lopez"
     number:
     shoe:
     points:
@@ -39,7 +39,7 @@ home: {
     slam_dunks:
     },
     {
-    player_name:
+    player_name:"Mason Plumlee"
     number:
     shoe:
     points:
@@ -50,7 +50,7 @@ home: {
     slam_dunks:
     },
     {
-    player_name:
+    player_name:"Jason Terry"
     number:
     shoe:
     points:
