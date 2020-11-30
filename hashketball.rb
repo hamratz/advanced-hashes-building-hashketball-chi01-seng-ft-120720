@@ -3,7 +3,7 @@ game_hash{
 
 home: {
   team_name: "Brookly Nets"
-  colors: ["Black"]
+  colors: ["Black", "White"]
   players: [ 
     {
     player_name:
