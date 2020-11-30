@@ -1,7 +1,7 @@
 # Write your code here!
 game_hash{
 
-:home
+:home {
   :team_name
   :colors 
   :players 
@@ -14,7 +14,10 @@ game_hash{
     :steals
     :blocks
     :slam_dunks
-:away
+}
+
+
+:away{
   :team_name
   :colors 
   :players 
@@ -27,5 +30,7 @@ game_hash{
     :steals
     :blocks
     :slam_dunks
+    
+}
     
 }
