@@ -66,11 +66,11 @@ home: {
 
 
 away:{
-  team_name: ""
-  colors: []
+  team_name: "Charlotte Hornets"
+  colors: ["Turquoise", "Purple"
   players: [ 
     {
-    player_name:
+    player_name:"Jeff Adrien"
     number:
     shoe:
     points:
@@ -81,7 +81,7 @@ away:{
     slam_dunks:
     },
     {
-    player_name:
+    player_name:"Bismack Biyombo"
     number:
     shoe:
     points:
@@ -92,7 +92,7 @@ away:{
     slam_dunks:
     },
     {
-    player_name:
+    player_name:"DeSagna Diop"
     number:
     shoe:
     points:
@@ -103,7 +103,7 @@ away:{
     slam_dunks:
     },
     {
-    player_name:
+    player_name: "Ben Gordon"
     number:
     shoe:
     points:
@@ -114,7 +114,7 @@ away:{
     slam_dunks:
     },
     {
-    player_name:
+    player_name: "Kemba Walker"
     number:
     shoe:
     points:
