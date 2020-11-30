@@ -1,5 +1,5 @@
 # Write your code here!
-game_hash
+game_hash{
 
 :home
   :team_name
@@ -27,3 +27,5 @@ game_hash
     :steals
     :blocks
     :slam_dunks
+    
+}
